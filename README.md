@@ -1,4 +1,4 @@
-# Skin-Lesion-Classification-Melanoma-Detection-
+# Automatic-classification-of-skin-lesions-melanoma-detection-
 
 This work uses the database of the ISIC Challenge 2017: Skin Lesion Analysis Towards Melanoma Detection.
 
