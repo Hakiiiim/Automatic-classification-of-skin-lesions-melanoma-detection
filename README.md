@@ -10,7 +10,7 @@ Both Python and Matlab are used for different classification approaches using ge
 
 Attached files contain two main scripts, one in Python and the other in MATLAB, the rest of the MATLAB files are functions used in the main file.
 
-Please read the document Skin_lesion_classifier.pdf for details about the approaches used and the results obtained, it is written in LateX and in English language, the scripts are also commented in English.
+Please read the report (also contained in the file Skin_lesion_classifier.pdf) for details about the approaches used and the results obtained, it is written in LateX and in English language, the scripts are also commented in English.
 
 # TB3: Image and Pattern recognition 2019-
 
