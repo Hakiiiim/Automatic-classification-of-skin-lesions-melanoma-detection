@@ -12,13 +12,13 @@ Attached files contain two main scripts, one in Python and the other in MATLAB, 
 
 Please read the report (also contained in the file Skin_lesion_classifier.pdf) for details about the approaches used and the results obtained, it is written in LateX and in English language, the scripts are also commented in English.
 
-# TB3: Image and Pattern recognition 2019-
+# TB3: Image and Pattern recognition 2019-2020
 
 # Project -Automatic classification of skin lesions (melanoma detection)-
 
 ## Abdelhakim Benechehab
 
-## January 2019
+## January 2020
 
 The objective of this project is to propose a methodology for the automatic
 classification of skin lesions, based on image analysis and machine learning.
