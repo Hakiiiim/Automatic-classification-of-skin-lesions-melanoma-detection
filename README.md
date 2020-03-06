@@ -31,7 +31,7 @@ skin lesion and the segmented image): Figure 1
 <img src="figures/1.jpg" 
   alt="1"/>
 
-We dispose also of test the segmentation of the original images using super-pixels,
+We dispose also of test test2 the segmentation of the original images using super-pixels,
 these last ones will be used later with geometrical descriptors on Python.
 Our database is composed of 200 samples, which are part of a 2000 original
 database from the world wide challenge: "ISIC 2017: Skin Lesion Analysis To-
